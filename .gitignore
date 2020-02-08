@@ -1,0 +1,7 @@
+/.idea
+/venv
+/vk_config.v2.json
+
+.directory
+Thumbs.db
+.DS_Store
